@@ -1,0 +1,4 @@
+#!/bin/bash
+
+a=1234
+echo $a

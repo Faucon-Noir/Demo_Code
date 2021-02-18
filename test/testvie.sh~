@@ -1,0 +1,5 @@
+#!/bin/bash
+hp=30
+read Answer
+HPB=$(($hp-$Answer))
+echo $HPB

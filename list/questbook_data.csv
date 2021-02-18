@@ -1,0 +1,21 @@
+id;name;description;quest_type;completion_state;quest_giver;start_date;end_date;reward
+1;The Gate of Hyrule;The Princess has been abducted by Ganondorf and Hyrule finds itself in danger. Using an old and powerful artifact, you go on an adventure, towards Hyrule's Castle.;main;1;The Princess Zelda;2019-9-23;2019-9-23;
+2;The Trials of the Seven Sages;In order to defeat Ganon, you need to gain power. Go and reclaim the blessing of the Sages.;main;1;Kaepora Gaebora;2019-9-24;2019-9-24;
+3;The Majora's Mask;The wizard Agahnim attacked and teleported you in the world of Termina, a strange place threatened by a Falling Moon.;main;1;The Fairy Queen of Termina;2019-9-25;2019-9-25;
+4;Defeat Ganon;The barrier around the Hyrule Castle was broken by the fairies of Termina. Go and save the Princess.;main;0;The Princess Zelda;2019-9-27;;the Princess Zelda
+5;Open the Gate;Turn on the Gate to unlock its powers.;primary;1;Navi;2019-9-23;2019-9-23;the Gate of Hyrule
+6;Gear up;Find the items and tools you'll need for your adventure;primary;1;Navi;2019-9-23;2019-9-23;Rupees (10)
+7;The camp in the forest;Build your fire camp for the night.;primary;1;Navi;2019-9-23;2019-9-23;
+8;The Skull Kid problem;Find and kill the Skull Kid that lure the travellers inside the forest;primary;1;Lost Soul;2019-9-23;2019-9-23;Lost Soul potion
+9;Rauru's simple calculator;Solve Rauru's mathematical problems.;primary;1;Rauru;2019-9-24;2019-9-24;the Hylian Pendant
+10;Let me in, Saria;Unlock Saria's door;primary;1;Saria;2019-9-24;2019-9-24;the Kokiri Pendant
+11;Make the difference with Darunia;Resolve Darunia's riddle;primary;1;Darunia;2019-9-24;2019-9-24;the Goron Pendant
+12;Ruto's game of word;Find the secrets word in Ruto's poem;primary;1;Ruto;2019-9-24;2019-9-24;the Zora Pendnat
+13;Impa's repository cleaning;Help Impa to keep the repositories of Hyrule clean and tidy;primary;1;Impa;2019-9-24;2019-9-24;the Sheikah Pendant
+14;Nabooru's spectral links;Enchant the files with Nabooru's dark magic;primary;1;Nabooru;2019-9-24;2019-9-24;the Gerudo Pendant
+15;Zelda's amiibo;Build a statue of Zelda for future oracles;secondary;1;Navi;2019-9-24;;Zelda's oracle
+16;Song of Time;Rewind the time to avoid a precarious situation;primary;1;Tatl;2019-9-25;2019-9-25;
+17;Sun's Song;Use your space-time magic to the next level;primary;1;Tatl;2019-9-25;2019-9-25;
+18;The time before doom;Estimate in how many days the moon will fall;primary;1;Tatl;2019-9-25;2019-9-25;Tatl
+19;Toward the moon;Defeat Skull Kid;primary;1;Termina's Fairy Queen;2019-9-25;2019-9-25;Tatl
+20;The Castle;Vanquish Ganon's generals and reach the submit of the Castle;primary;0;The Princess Zelda;2019-9-27;;the Boss Door Key

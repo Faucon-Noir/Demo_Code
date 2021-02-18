@@ -1,0 +1,1 @@
+diff <(head -n1 mirror) <(tail -n1 mirror)

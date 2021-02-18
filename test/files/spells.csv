@@ -1,0 +1,7 @@
+id,name,cost,dmg,effect,cooldown,race,class,rarity
+1,Fireball,10,20,Burn_1_15,1,,,1
+2,Heal,10,,Heal_20,2,,priest;monk;hero,1
+3,Heal II,30,,Heal_50,2,,priest,2
+4,Cheat Heal,20,,Heal_100,,,,0
+5,Cheat Restore,,,Restore_100,,,,0
+6,Cheat Fireball,20,200,AOE,,,,0

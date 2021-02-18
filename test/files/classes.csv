@@ -1,0 +1,10 @@
+id,name,strength,weakess,attack_type,alignment,rarity
+1,Hero,4;5;8;9,7;8,physical,good,3
+2,Warrior,3;4,7,physical,good,1
+3,Mage,6;9,2;4;5,magical,good,1
+4,Dark Mage,3;9,1;2;5,magical,evil,3
+5,Assassin,3;4;9,5;7,physical,evil,4
+6,Priest,9,3;8,magical,good,2
+7,Monk,1;2;5,,physical,good,1
+8,Death Knight,1;6,1,physical,evil,5
+9,Necromancer,4,1;3;4;5;6,magical,evil,4

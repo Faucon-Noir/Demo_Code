@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Golden Clicker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body style="background: rgb(230, 230, 230);">
+    <div id="game">
+        <div id="money">0</div>
+        <div id="saveMenu">
+            <div id="gps">gold/second : 0</div>
+            <div class="button" id="upsave" onclick="upsave()">Export save</div>
+            <div class="button" id="dlsave" onclick="dlsave()">Import save</div>
+            <div class="button" id="reset" onclick="reset()">Reset</div>
+        </div>
+        <div id="rightpan">
+            <div id="store">
+                <div id="buyCursor" onclick="Buy('Cursor');" style="background-image:url(img/cursoricon.png);" class="grayed"><b>Cursor - 15 <price></price></b>Autoclicks every 5 seconds.</div>
+                <div id="buyGrandma" onclick="Buy('Grandma');" style="background-image:url(img/grandmaicon.png);" class="grayed"><b>Grandma - 100 <price></price></b>A nice grandma to make more gold.</div>
+                <div id="buyFactory" onclick="Buy('Factory');" style="background-image:url(img/factoryicon.png);" class="grayed"><b>Factory - 500 <price></price></b>Make gold.</div>
+                <div id="buyMine" onclick="Buy('Mine');" style="background-image:url(img/mineicon.png);" class="grayed"><b>Mine - 2,000 <price></price></b>Mines out gold ore.</div>
+                <div id="buyShipment" onclick="Buy('Shipment');" style="background-image:url(img/shipmenticon.png);" class="grayed"><b>Shipment - 7,000 <price></price></b>Brings back gold ingots from the asteroids.</div>
+                <div id="buyAlchemy lab" onclick="Buy('Alchemy lab');" style="background-image:url(img/labicon.png);" class="grayed"><b>Alchemy lab - 50,000 <price></price></b>Turns cookies into gold!</div>
+                <div id="buyPortal" onclick="Buy('Portal');" style="background-image:url(img/portalicon.png);" class="grayed"><b>Portal - 1,000,000 <price></price></b>Opens a door to the Goldverse.</div>
+                <div id="buyTime machine" onclick="Buy('Time machine');" style="font-size:90%;background-image:url(img/timemachineicon.png);" class="grayed"><b>Time machine - 123,456,789 <price></price></b><span style="font-size:80%;">Brings gold from the past.</span></div>
+            </div>
+        </div>
+        <div id="middle">
+            <div id="grandma"></div>
+            <div id="factorie"></div>
+            <div id="mine"></div>
+            <div id="shipment"></div>
+            <div id="lab"></div>
+            <div id="gold"></div>
+        </div>
+        <div id="pops"></div>
+    </div>
+    <div id="alert"></div>
+
+    <script type="text/javascript" src="JS/fonction.js"></script>
+</body>
+
+</html>

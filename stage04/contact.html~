@@ -1,0 +1,11 @@
+<form>
+  <fieldset>
+    <legend>Personnal informations</legend>
+    
+    <input type="radio" id="Man" >
+    <label for="Man">Man</label>
+    
+    <input type="radio" id="Woman">
+    <label for="Woman">Woman</label>
+  </fieldset>
+</form>

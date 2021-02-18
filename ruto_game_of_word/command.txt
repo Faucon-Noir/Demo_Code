@@ -1,0 +1,1 @@
+tr " " "\n" < poem | grep -c Ruto
