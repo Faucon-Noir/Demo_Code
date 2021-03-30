@@ -1,0 +1,53 @@
+body{
+    background-color: beige;
+    margin: 8px;
+    padding: 0;
+}
+
+.boxBtn{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.button{
+    background-color:grey;
+    border-radius: 8px;
+    border: none;
+    color:white;
+    width: 20%;
+    height: 15%;
+}
+
+.tableau{
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.ligne{
+    display: flex;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 10px;
+    background-color: gray;
+    justify-content: space-between;
+    justify-content: flex-start;
+    justify-content: space-between;
+    justify-content: space-evenly;
+}
+
+.contenu{
+    display: flex;
+    margin: 8px;
+    background-color: gray;
+    color: white;
+    align-items: center;
+    justify-content: space-between;
+    justify-content: flex-start;
+    justify-content: space-between;
+    justify-content: space-evenly;
+
+}
+
+
+/*Par défaut, les items flex sont disposés par ordre d'arrivée. Cependant, la propriété "ORDER" permet de contrôler l'ordre dans lequel ils apparaissent dans le container.*/
