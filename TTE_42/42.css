@@ -1,9 +1,9 @@
-#button{
+#button{ /*Arrondissement des coins du bouton*/
     border-radius: 3px;
     margin-left: 47.5%;
     margin-top: 10px;
 }
-#input {
+#input { /*arrodissement des coins du champ de saisie*/
     border-radius: 3px;
     margin-left: 45%;
     margin-top: 10%;
