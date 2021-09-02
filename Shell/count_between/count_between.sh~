@@ -1,7 +1,0 @@
-#!/bin/bash
-
-while [[ $a -lt 10 ]] && [[ $b -gt 99 ]]; do
-    echo "0"
-    else
-	echo ($b-$a-1)
-done

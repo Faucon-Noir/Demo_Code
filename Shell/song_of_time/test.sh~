@@ -1,5 +1,0 @@
-#!/bin/bash
-
-date=$(date +%A +%d/%m/%Y)
-hour=$(date +%R)
-echo "Today is "$date "and it is "$hour
