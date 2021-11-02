@@ -39,6 +39,7 @@ async def on_message(message):
         await message.channel.send("pong")
 
 # client run
+# token est un alias pour le token d'authentification du bot
 client.run(os.getenv("token"))
 
 
@@ -58,4 +59,5 @@ async def delete(ctx, number_of_messages: int):
         await each_message.delete()
 
 # bot run
+# token est un alias pour le token d'authentification du bot
 bot.run(os.getenv("token"))
