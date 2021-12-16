@@ -1,0 +1,31 @@
+{
+    "name": "lego_api",
+    "version": "1.0.0",
+    "description": "A non official Lego API",
+    "main": "main.js",
+    "scripts": {
+        "test": "run"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@rendu-git.etna-alternance.net:module-8433/activity-45935/group-896225.git"
+    },
+    "author": "beuret_m garde_f",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "ajax": "0.0.4",
+        "autoincrement": "^1.0.0",
+        "bcryptjs": "^2.4.3",
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "express-validator": "^6.13.0",
+        "jquery": "^3.6.0",
+        "jsonwebtoken": "^8.5.1",
+        "mongodb": "^4.1.3",
+        "mongoose": "^6.0.12",
+        "mongoose-auto-increment": "^5.0.1",
+        "mongoose-sequence": "^5.3.1",
+        "serve-favicon": "^2.5.0"
+    }
+}
