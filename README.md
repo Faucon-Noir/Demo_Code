@@ -8,7 +8,7 @@ Dark Blue est mon premier projet en HTML5 CSS3, non maintenu a cause de bug de s
 
 LegoAPI est une API MVC en NodeJS fonctionnant avec MongoDB. Son URI est exposé à des fins de démonstration.
 
-MiniPisces, un bot python me servant à l'automodération de mon serveur Discord est un projet autodidacte. Je voulais apprendre le Python avant les cours de l'ETNA avec AzureFace.
+MiniPisces, un bot python me servant à l'automodération de mon serveur Discord est un projet autodidacte. Je voulais apprendre le Python avant les cours de l'ETNA avec les services Azure. Pour des raisons de sécurité, plusieurs alias sont utilisés, afin de garder secrets les différents tokens du fichier config (non exposé sur le repo).
 
 PLI, alias Green Level, est le grand projet de fin d'année d'AP à l'ETNA. Green Level est une application crosseplateforme développée en Flutter à destination de tout le monde. Nous avons rendu les gestes écologiques et l'accompagnement dans la transition écologique accessible à tous par le jeu en réalité augmentée. Vous réalisez des tâches dans la vie réelle pour gagner des points dans l'application puis des récompenses.
 
